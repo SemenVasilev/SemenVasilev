@@ -13,7 +13,7 @@
 </div>
 
 ### About Me :
-I have a PhD in Physics and 10 years of experience as a Researcher in Academia. Now I am starting my career in data science. I have always loved uncovering insights from data and discovering something new about the world around us. My Data Science journey began in 2022 with taking "Data Analysis and Presentation Skills: the PwC Approach Specialization". After learning the basics of programming, I started my personal project to practice my skills in working with data, and I finished "IBM Introduction in Data Science Professional Certificate" on Coursera. This pushed me into the magnificent world of Data, Machine Learning, Deep Learning and AI. I successfully completed "IBM Machine Learning Professional Certificate" on Coursera in January 2023. Currently, I am seeking opportunities to leverage my expertise and grow as a data scientist in a dynamic industry setting.
+I have a PhD in Physics and 10 years of experience as a Researcher in Academia. I have always loved uncovering insights from data and discovering something new about the world around us. Currently, I am working as a PostDoc at the University of Limerick in the group Data Analysis for Pharmaceutical Manufacturing. I study powder conveying by ML methods.
 
 Working as a Researcher, I developed following transferable skills:
  -  Critical Thinking, 
@@ -31,7 +31,7 @@ I acquired technical skills such as
  
 You can find my portfolio on [Kaggle](https://www.kaggle.com/semenvasilev) and here oh GitHub
 
-Also, I got a "Google Project Management: Professional Certificate" and "Lean Six Sigma Yellow Belt".
+I also received a "Google Project Management: Professional Certificate" and a "Lean Six Sigma Yellow Belt".
 
 My scientific results were published in 25 articles. I presented my work at 15 International conferences in Portugal, Switzerland and Ireland.
-List of my scientific publication you can find on [Google Scholar](https://scholar.google.ru/citations?user=MAnOzpYAAAAJ&hl=ru)
+List my scientific publications you can find on [Google Scholar](https://scholar.google.ru/citations?user=MAnOzpYAAAAJ&hl=ru)
